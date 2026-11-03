@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.next/
+*.tsbuildinfo
+.DS_Store
+coverage/
+
+# Credentials — only the .env.example templates are committed
+.env
+.env.*
+!.env.example
